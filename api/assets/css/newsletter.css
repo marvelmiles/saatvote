@@ -1,0 +1,23 @@
+a {
+  text-decoration: none !important;
+  display: inline-block !important;
+  color: #45678d !important;
+}
+
+.btn {
+  background-color: #45678d;
+  color: #fff;
+  border-radius: 5px;
+  width: 90%;
+  margin: auto;
+}
+a .btn-link {
+  text-decoration: none !important;
+  display: block !important;
+
+  padding-right: 0 !important;
+  width: calc(100%-10px) !important;
+  text-align: center !important;
+  font-size: 18px !important;
+  color: #fff !important;
+}
